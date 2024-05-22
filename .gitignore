@@ -1,0 +1,6 @@
+/.auth/gcp_key.json
+/terraform/terraform.tfstate
+/terraform/.terraform.lock.hcl
+/terraform/.terraform/
+/terraform/temp/
+/venv/

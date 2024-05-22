@@ -1,2 +1,4 @@
-# terraform-gcp-deployment-configs
-This repository lays out different configurations to deploy your code to google cloud platform.
+# terraform-gcp-cf-deploy
+This repository allows you to deploy your application to Google Cloud Functions using Terraform.
+
+
